@@ -1,6 +1,6 @@
 # SOS-Net
 
-Welcome to the official repository of SOS-Net, a project dedicated to advanced deep learning techniques for segmentation and age estimation. This repository contains Jupyter notebooks for implementing and demonstrating these models.
+Welcome to the official repository of SOS-Net, a project that segments for the spheno-occipital synchondrosis (SOS) of a given head scan and then predicts for the patient age based on the SOS region. This repository contains Jupyter notebooks for implementing and demonstrating these models.
 
 ## Table of Contents
 
